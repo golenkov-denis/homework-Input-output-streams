@@ -1,0 +1,23 @@
+ОШИБКА при создании директории Games
+ОШИБКА при создании директории Games/src
+ОШИБКА при создании директории Games/res
+ОШИБКА при создании директории Games/savegames
+ОШИБКА при создании директории Games/temp
+ОШИБКА при создании директории Games/src/main
+ОШИБКА при создании директории Games/src/test
+ОШИБКА при создании файла Games/src/main/Main.java
+ОШИБКА при создании файла Games/src/main/Utils.java
+ОШИБКА при создании директории Games/res/drawables
+ОШИБКА при создании директории Games/res/vectors
+ОШИБКА при создании директории Games/res/icons
+ОШИБКА при создании файла Games/temp/temp.txt
+Сохранение игры в файл: Games/savegames/save1.dat
+Сохранение игры в файл: Games/savegames/save2.dat
+Сохранение игры в файл: Games/savegames/save3.dat
+Файл запакован: Games/savegames/save1.dat
+Файл запакован: Games/savegames/save2.dat
+Файл запакован: Games/savegames/save3.dat
+Файлы запакованы в архив: Games/savegames/saves.zip
+Файл удален: Games/savegames/save1.dat
+Файл удален: Games/savegames/save2.dat
+Файл удален: Games/savegames/save3.dat
